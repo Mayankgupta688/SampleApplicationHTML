@@ -1,0 +1,50 @@
+.Rectangle-10 {
+    width: 1366px;
+    height: 480px;
+    background: linear-gradient(to bottom, rgba(255, 255, 255, 0), #4f0707), url("../images/shutterstock.png") no-repeat;
+    margin: auto;
+    box-sizing: border-box;
+    padding-top: 30px;
+    text-align: center;
+    font-weight: 600;
+}
+
+.Ellipse-1 {
+    width: 147px;
+    height: 147px;
+    background-color: #ffffff;
+    margin: auto;
+    border-radius: 50%;
+}
+
+.e {
+    font-family: Poppins;   
+    font-size: 70px;
+    text-align: center;
+    color: #eb2929;
+    border-radius: 50%;
+    padding-top: 30px;
+}
+
+.content {
+    font-family: Poppins;
+    font-size: 36px;
+    color: #ffffff;
+    margin-top: 10px;
+}
+
+.Rectangle-2 {
+    width: 245px;
+    height: 60px;
+    background-color: white;
+    padding-left: 10px;
+}
+
+input[type="text"]::placeholder {  
+    text-align: center; 
+} 
+
+.input-one {
+    margin-right: 20px;
+}
+  
